@@ -31,7 +31,7 @@ I'm a second-year MI2 student at the Faculty of Science of Tunis. I have an inte
 ### 📺 Latest Work
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How Data Structures & Algorithms are Actually Used](https://ytcards.demolab.com/?id=ALPWOiUKIjY&title=How+Data+Structures+%26+Algorithms+are+Actually+Used&lang=en&timestamp=1710513900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699 "How Data Structures & Algorithms are Actually Used")](https://www.youtube.com/watch?v=ALPWOiUKIjY)
+[![Education'All](https://img.youtube.com/vi/dGaHeuS0C1E/0.jpg)](https://www.youtube.com/watch?v=dGaHeuS0C1E)
 <!-- END YOUTUBE-CARDS -->
 
 
