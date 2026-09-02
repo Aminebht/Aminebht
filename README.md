@@ -4,7 +4,7 @@
 
 I build on the platform side: multi-tenant edge hosting, partner-facing APIs, and LLM agent runtimes.
 
-**Open to a 6-month final-year internship (PFE) from February 2027** — Luxembourg or France. Full-stack, cloud/DevOps, or applied AI.
+**Open to a 6-month final-year internship (PFE) from February 2027** . Full-stack, cloud/DevOps, or applied AI.
 
 ---
 
