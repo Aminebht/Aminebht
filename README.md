@@ -1,6 +1,6 @@
 # Med Amine Belhadj Taher
 
-**Founder & CTO of [Demarky](https://demarky.ai)** — an AI website generator with a built-in CRM, now at **2,731 users** and **4,599 generated sites**. Third-year Computer Engineering student at the Faculty of Sciences of Tunis.
+**Founder & CTO of [Demarky](https://demarky.ai)** , an AI website generator with a built-in CRM, now at **2,731 users** and **4,599 generated sites**. Third-year Computer Engineering student at the Faculty of Sciences of Tunis.
 
 I build on the platform side: multi-tenant edge hosting, partner-facing APIs, and LLM agent runtimes.
 
